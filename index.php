@@ -90,9 +90,6 @@
 </body>
 <script>
 
-/*function PreCargarFoto(){
-    var datos = document.getElementById('select').value;
-}*/
 
 function MostrarFoto(){
     event.preventDefault();
